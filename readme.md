@@ -41,3 +41,6 @@ git config -- global user.email "jselgrath@gmail.com"
 # tools>shell: git branch NAMEOFBRANCH
 # then in user window can switch between master and new branch
 
+# Merging 2 version
+# make changes in develop (ie new branch). When decide to keep
+# set branch to master. tools>shell git merge NAMEOFBRANCHTOMERGE
