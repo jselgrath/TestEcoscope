@@ -1,0 +1,1 @@
+lm(mpg~wt, data=mtcars)
